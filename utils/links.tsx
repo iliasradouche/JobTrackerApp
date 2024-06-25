@@ -14,12 +14,12 @@ const links: Array<NavLink> = [
   },
   {
     href: "/jobs",
-    label: "jobs",
+    label: "jobs available",
     icon: <AppWindow />,
   },
   {
     href: "/stats",
-    label: "stats",
+    label: "jobs stats",
     icon: <AreaChart />,
   },
 ];
